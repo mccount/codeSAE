@@ -1,0 +1,10 @@
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\bin\Debug\quadratzahlen.exe.config
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\bin\Debug\quadratzahlen.exe
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\bin\Debug\quadratzahlen.pdb
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.csprojResolveAssemblyReference.cache
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.baseform.resources
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.Properties.Resources.resources
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.csproj.GenerateResource.cache
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.csproj.CoreCompileInputs.cache
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.exe
+C:\Users\janni\Documents\GitHub\codeSAE\quadratzahlen\quadratzahlen\obj\Debug\quadratzahlen.pdb

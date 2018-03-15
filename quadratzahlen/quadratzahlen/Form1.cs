@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace quadratzahlen
 {
-    public partial class Form1 : Form
+    public partial class baseform : Form
     {
-        public Form1()
+        public baseform()
         {
             InitializeComponent();
+        }
+
+        private void btnFill_Click(object sender, EventArgs e)
+        {
+            int basenumber = 1;
+            int quadrat;
+
+            lbEntries.Items.Clear();
+            lbEntries.Items.Add("Basis\t\tQuadrat");
+
+            for (basenumber = 1; basenumber <= 25; basenumber++)
+            {
+                quadrat = basenumber * basenumber;
+                lbEntries.Items.Add(basenumber.ToString() + "\t\t" + quadrat.ToString());
+            }
         }
     }
 }
