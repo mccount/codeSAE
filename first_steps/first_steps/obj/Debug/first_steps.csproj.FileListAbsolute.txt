@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\first_steps\first_steps\bin\Debug\first_steps.exe.config
+C:\Users\janni\source\repos\first_steps\first_steps\bin\Debug\first_steps.exe
+C:\Users\janni\source\repos\first_steps\first_steps\bin\Debug\first_steps.pdb
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.Form1.resources
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.Properties.Resources.resources
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.exe
+C:\Users\janni\source\repos\first_steps\first_steps\obj\Debug\first_steps.pdb

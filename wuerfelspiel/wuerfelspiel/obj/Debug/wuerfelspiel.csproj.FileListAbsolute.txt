@@ -1,0 +1,11 @@
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\bin\Debug\wuerfelspiel.exe.config
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\bin\Debug\wuerfelspiel.exe
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\bin\Debug\wuerfelspiel.pdb
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.spielform.resources
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.Properties.Resources.resources
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.exe
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.pdb
+C:\Users\janni\source\repos\wuerfelspiel\wuerfelspiel\obj\Debug\wuerfelspiel.WuerfelGlueck.resources

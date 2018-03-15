@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\bin\Debug\Rechenprüfer.exe.config
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\bin\Debug\Rechenprüfer.exe
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\bin\Debug\Rechenprüfer.pdb
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.Form1.resources
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.Properties.Resources.resources
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.exe
+C:\Users\janni\source\repos\Rechenprüfer\Rechenprüfer\obj\Debug\Rechenprüfer.pdb

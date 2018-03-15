@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\bin\Debug\kreditantrag.exe.config
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\bin\Debug\kreditantrag.exe
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\bin\Debug\kreditantrag.pdb
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.Form1.resources
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.Properties.Resources.resources
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.exe
+C:\Users\janni\source\repos\kreditantrag\kreditantrag\obj\Debug\kreditantrag.pdb

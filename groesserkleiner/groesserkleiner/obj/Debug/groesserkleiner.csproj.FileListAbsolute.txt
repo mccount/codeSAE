@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\bin\Debug\groesserkleiner.exe.config
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\bin\Debug\groesserkleiner.exe
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\bin\Debug\groesserkleiner.pdb
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.Form1.resources
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.Properties.Resources.resources
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.exe
+C:\Users\janni\source\repos\groesserkleiner\groesserkleiner\obj\Debug\groesserkleiner.pdb

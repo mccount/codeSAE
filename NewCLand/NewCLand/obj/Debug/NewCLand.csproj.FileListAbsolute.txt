@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\NewCLand\NewCLand\bin\Debug\NewCLand.exe.config
+C:\Users\janni\source\repos\NewCLand\NewCLand\bin\Debug\NewCLand.exe
+C:\Users\janni\source\repos\NewCLand\NewCLand\bin\Debug\NewCLand.pdb
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.Form1.resources
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.Properties.Resources.resources
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.exe
+C:\Users\janni\source\repos\NewCLand\NewCLand\obj\Debug\NewCLand.pdb

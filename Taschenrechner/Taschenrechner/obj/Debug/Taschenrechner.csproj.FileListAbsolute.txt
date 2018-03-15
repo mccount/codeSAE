@@ -1,0 +1,10 @@
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojResolveAssemblyReference.cache
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.Cache
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\janni\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
